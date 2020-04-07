@@ -1,6 +1,6 @@
 # Reddit-Bot
 
-This is a reddit bot, it runs in the background and moniters any specified subreddit. The bot uses PRAW (Python Reddit API Wrapper), a python package that allows for simple access to reddit's API. This bot detects any new comments posted on the subreddit, if the comment contains the string "Marvin Help" the bot replies to the comment.
+This is a reddit bot, it runs in the background and moniters any specified subreddit. The bot uses PRAW (Python Reddit API Wrapper), a python package that allows for simple access to reddit's API. The bot can interact with with websites autonomously. This bot detects any new comments posted on the subreddit, if the comment contains the string "Marvin Help" the bot replies to the comment.
 
 
 # Result
