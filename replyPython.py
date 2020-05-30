@@ -8,8 +8,6 @@ import os
 # Create the Reddit instance
 reddit = praw.Reddit('bot1')
 
-# reddit.login("DeepThought_101010", "ZarkingNo")
-
 # Have we run this code before? If not, create an empty list
 if not os.path.isfile("posts_replied_to.txt"):
     posts_replied_to = []
